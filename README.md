@@ -1,1 +1,9 @@
 "# Student Task & Performance Management Portal" 
+![land](https://github.com/user-attachments/assets/aa9fe4a9-64c9-4bb6-8a7e-75f58246fa99)
+![page](https://github.com/user-attachments/assets/e9491aff-7a42-4f1b-9bf4-87d5d09d416d)
+![adminp](https://github.com/user-attachments/assets/944c9716-8989-48c9-9559-0164e10d75ff)
+![admind](https://github.com/user-attachments/assets/9be7e5bf-fd7c-47a2-b8a1-1af5805a86b8)
+![adds](https://github.com/user-attachments/assets/1c107b57-3fad-43e3-a80a-eca779e14326)
+![new id](https://github.com/user-attachments/assets/5e86a119-fbfd-4d37-ba54-25239536669d)
+![assign](https://github.com/user-attachments/assets/7a6d0ce9-5f21-4889-b128-d340595e04ef)
+![taskcreate](https://github.com/user-attachments/assets/6ee0e70a-4831-4310-a2b1-3e02cc6029ff)
