@@ -7,3 +7,7 @@
 ![new id](https://github.com/user-attachments/assets/5e86a119-fbfd-4d37-ba54-25239536669d)
 ![assign](https://github.com/user-attachments/assets/7a6d0ce9-5f21-4889-b128-d340595e04ef)
 ![taskcreate](https://github.com/user-attachments/assets/6ee0e70a-4831-4310-a2b1-3e02cc6029ff)
+![category](https://github.com/user-attachments/assets/b90b3e39-8f8a-4855-bb16-2c6e2f592d55)
+![generate](https://github.com/user-attachments/assets/98e74461-aafb-4a78-8f58-d192a681e6f6)
+![taskreview](https://github.com/user-attachments/assets/ed8955a4-920a-46dd-988f-76fbfd454088)
+![pendingreview](https://github.com/user-attachments/assets/39464f80-aaa2-4eaa-89a8-661d3330a910)
